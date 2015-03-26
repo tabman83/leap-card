@@ -3,9 +3,6 @@
   "version": "0.5.0",
   "description": "Easily retrieve your Dublin Leap Card informations",
   "main": "index.js",
-  "scripts": {
-    "test": "node tests"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tabman83/leap-card.git"
