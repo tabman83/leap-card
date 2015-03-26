@@ -1,4 +1,4 @@
-# leap-card
+# leap-card [![Build Status](https://travis-ci.org/tabman83/leap-card.svg?branch=master)](https://travis-ci.org/tabman83/leap-card)
 Easily retrieve your Dublin Leap Card informations
 
 ## Description
