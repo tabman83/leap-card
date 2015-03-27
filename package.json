@@ -1,6 +1,6 @@
 {
   "name": "leap-card",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Easily retrieve your Dublin Leap Card informations",
   "main": "index.js",
   "repository": {
