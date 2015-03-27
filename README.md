@@ -1,8 +1,9 @@
 # leap-card  
 
-[![Build Status](https://travis-ci.org/tabman83/leap-card.svg?branch=master)](https://travis-ci.org/tabman83/leap-card) 
+[![NPM](https://nodei.co/npm/leap-card.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/leap-card)
 
-[![NPM](https://nodei.co/npm/leap-card.png?downloads=true&downloadRank=true)](https://www.npmjs.com/package/leap-card)
+[![Build Status](https://travis-ci.org/tabman83/leap-card.svg?branch=master)](https://travis-ci.org/tabman83/leap-card) 
+[![Coverage](https://img.shields.io/coveralls/leap-card/leap-card.svg)](https://coveralls.io/r/leap-card/leap-card)
 
 > Easily retrieve your Dublin Leap Card informations.
 
