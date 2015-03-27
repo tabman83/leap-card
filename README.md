@@ -1,4 +1,7 @@
-# leap-card  [![Build Status](https://travis-ci.org/tabman83/leap-card.svg?branch=master)](https://travis-ci.org/tabman83/leap-card) [![NPM Version](https://img.shields.io/npm/v/leap-card.svg)](https://www.npmjs.com/package/leap-card) [![NPM Downloads](https://img.shields.io/npm/dm/leap-card.svg)](https://www.npmjs.com/package/leap-card)
+# leap-card  
+[![Build Status](https://travis-ci.org/tabman83/leap-card.svg?branch=master)](https://travis-ci.org/tabman83/leap-card) 
+[![NPM Version](https://img.shields.io/npm/v/leap-card.svg)](https://www.npmjs.com/package/leap-card)
+[![NPM Downloads](https://img.shields.io/npm/dm/leap-card.svg)](https://www.npmjs.com/package/leap-card)
 
 Easily retrieve your Dublin Leap Card informations
 
@@ -31,7 +34,7 @@ any damage the software may cause to your system or files.
 
 leap-card
 
-Copyright (C) 2011-2015 by Harald Lapp <harald@octris.org>
+Copyright (C) 2015 by Antonino Parisi <tabman83@gmail.com>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
