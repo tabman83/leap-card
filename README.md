@@ -1,9 +1,10 @@
 # leap-card  
+> Easily retrieve your Dublin Leap Card informations
+
 [![Build Status](https://travis-ci.org/tabman83/leap-card.svg?branch=master)](https://travis-ci.org/tabman83/leap-card) 
 [![NPM Version](https://img.shields.io/npm/v/leap-card.svg)](https://www.npmjs.com/package/leap-card)
 [![NPM Downloads](https://img.shields.io/npm/dm/leap-card.svg)](https://www.npmjs.com/package/leap-card)
 
-Easily retrieve your Dublin Leap Card informations
 
 ## Description
 
